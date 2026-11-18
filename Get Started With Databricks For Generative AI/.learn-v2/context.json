@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "courseId": "academy:genai-onb-01@3.1.1",
+  "bundleDigest": "sha256:5d2b5e5d28bf1689449a7bb643706cfe96415d42fbcead619b0b69c2afb3ee1d",
+  "values": {
+    "pseudonym": "puli_reddy",
+    "catalog_name": "learn_get_started_genai_puli_reddy",
+    "schema_name": "default",
+    "paths.working_dir": "/Volumes/learn_get_started_genai_puli_reddy/default/working",
+    "datasets.docs": "dbacademy_docs.v01",
+    "paths.datasets.docs": "/Volumes/dbacademy_docs/v01",
+    "vector_search_endpoint_name": "learn_academy_search"
+  }
+}
